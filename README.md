@@ -5,6 +5,7 @@ A fictional software company named **AtlasLab** faced recurring challenges in in
 ---
 
 ## Phase One – Building the Data Model and Exploratory Analysis
+![Overview page](https://github.com/MohamdSiraj/AtlasLabHRAnalytics/blob/main/assets/overview%20shot.PNG?raw=true)
 
 - Data was collected from various sources, cleaned, and structured to build a robust data model in Power BI.
 - An exploratory analysis was conducted to understand the main features of the data and formulate initial hypotheses about the causes of turnover.
@@ -12,21 +13,21 @@ A fictional software company named **AtlasLab** faced recurring challenges in in
 ---
 
 ## Phase Two – Analysis of Demographic Factors and Job Disparities
-
+![Demographics page](https://github.com/MohamdSiraj/AtlasLabHRAnalytics/blob/main/assets/Demographics%20snap.PNG?raw=true)
 - The analysis focused on demographic variables such as age, gender, and marital status to identify any patterns related to employee retention.
 - Job disparities between departments were examined, including salary and job level, to uncover any significant differences that might affect employee stability.
 
 ---
 
 ## Phase Three – The Relationship Between Job Performance and Resignation
-
+![Performance page](https://github.com/MohamdSiraj/AtlasLabHRAnalytics/blob/main/assets/Performance%20Traker.PNG?raw=true)
 - The relationship between employee performance evaluation scores and their likelihood of resignation was analyzed.
 - This helped to understand whether low-performers were more likely to leave, or if other factors were at play.
 
 ---
 
 ## Phase Four – Analysis of Service Duration, Work Hours, and Travel
-
+![Attrition page](https://github.com/MohamdSiraj/AtlasLabHRAnalytics/blob/main/assets/Attrition%20Snap.PNG?raw=true)
 - The impact of the length of service, overtime hours, and business travel requirements on employee retention was studied.
 - This provided a deeper understanding of how work-life balance might influence an employee's decision to stay or leave.
 
